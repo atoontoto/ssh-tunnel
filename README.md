@@ -1,7 +1,10 @@
-# A script I made to automate port forwarding via SSH, because who likes to deal with that tedious syntax?
+# SSH tunneling script
 
-Usage:
+A simple script I made to automate **port forwarding via SSH** — because who likes to deal with that tedious syntax? 
+
+---
+
+##  Usage guide
+```bash
 chmod +x ssh-tunnel.sh
 ./ssh-tunnel.sh
-
-Type "help" to see a usage guide.
